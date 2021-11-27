@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{font-family:'RobotoCondensed-Regular';}
+	.st3{font-size:12px;}
+	.st4{font-size:18px;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<image style="overflow:visible;" width="1000" height="800" xlink:href="../../../Clase 2 (23:11)/clase-2/img/hipo1.jpg"  transform="matrix(1 0 0 1 0 100)">
+</image>
+<g id="su_lomo" class="st0">
+	<text transform="matrix(1 0 0 1 421.0896 88.5117)" class="st1 st2 st3">             </text>
+	<text transform="matrix(1 0 0 1 421.0896 88.5117)" class="st1 st2 st4">Un color pardo rojizo</text>
+	<text transform="matrix(1 0 0 1 586.5964 88.5117)" class="st1 st2 st3">             </text>
+	<text transform="matrix(1 0 0 1 460.4896 110.1117)" class="st1 st2 st4">en el lomo</text>
+	<text transform="matrix(1 0 0 1 543.4496 110.1117)" class="st1 st2 st3">         </text>
+	<line class="st5" x1="500" y1="152" x2="500" y2="300"/>
+</g>
+<g id="su_vientre" class="st0">
+	<text transform="matrix(1 0 0 1 57.9406 732.9189)" class="st1 st2 st3">             </text>
+	<text transform="matrix(1 0 0 1 57.9406 732.9189)" class="st1 st2 st4">Líneas transversales</text>
+	<text transform="matrix(1 0 0 1 222.1818 732.9189)" class="st1 st2 st3">             </text>
+	<text transform="matrix(1 0 0 1 57.9406 754.5189)" class="st1 st2 st4">blancas y negras en</text>
+	<text transform="matrix(1 0 0 1 216.3547 754.5189)" class="st1 st2 st3">             </text>
+	<text transform="matrix(1 0 0 1 57.9406 776.1189)" class="st1 st2 st4">su vientre</text>
+	<text transform="matrix(1 0 0 1 135.4953 776.1189)" class="st1 st2 st3">         </text>
+	<polyline class="st5" points="500,641 500,749 241.5,749 	"/>
+</g>
+<g class="st0">
+	<polyline class="st5" points="695,347 695,615 743.5,615 	"/>
+	<g class="st1">
+		<text transform="matrix(1 0 0 1 760.7707 597.9189)" class="st2 st4">Un anaranjado rojizo</text>
+		<text transform="matrix(1 0 0 1 918.8976 612.9189)" class="st2 st3">          </text>
+		<text transform="matrix(1 0 0 1 918.8976 627.3188)" class="st2 st3">   </text>
+		<text transform="matrix(1 0 0 1 898.7707 634.5189)" class="st2 st3">         </text>
+		<text transform="matrix(1 0 0 1 760.7705 621.7603)" class="st2 st4">en su pecho y alrededor</text>
+		<text transform="matrix(1 0 0 1 760.7707 645.6016)" class="st2 st4">de sus ojos</text>
+	</g>
+</g>
+</svg>
