@@ -9,15 +9,15 @@
 	.st3{font-size:25px;}
 	.st4{display:none;fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
-<image style="overflow:visible;" width="1000" height="800" xlink:href="../../../Clase 2 (23:11)/clase-2/img/hipo1.jpg"  transform="matrix(1 0 0 1 0 200)">
+<image style="overflow:visible;enable-background:new    ;" width="1000" height="800" xlink:href="../../../Clase 2 (23:11)/clase-2/img/hipo1.jpg"  transform="matrix(1 0 0 1 0 200.0002)">
 </image>
 <rect x="369.9" y="55.7" class="st0" width="260.3" height="119.7"/>
-<text transform="matrix(1 0 0 1 416.0862 89.2915)" class="st1 st2 st3">Un color pardo </text>
-<text transform="matrix(1 0 0 1 409.7838 124.4915)" class="st1 st2 st3">rojizo en el lomo</text>
+<text transform="matrix(1 0 0 1 416.0862 89.2916)" class="st1 st2 st3">Un color pardo </text>
+<text transform="matrix(1 0 0 1 409.7838 124.4918)" class="st1 st2 st3">rojizo en el lomo</text>
 <line class="st4" x1="500" y1="152" x2="500" y2="300"/>
 <line class="st4" x1="500" y1="641" x2="500" y2="1009"/>
 <rect x="339" y="1038.1" class="st0" width="322.1" height="143.2"/>
-<text transform="matrix(1 0 0 1 384.4731 1063.6982)" class="st1 st2 st3">Líneas transversales </text>
-<text transform="matrix(1 0 0 1 387.6003 1098.8982)" class="st1 st2 st3">blancas y negras en </text>
+<text transform="matrix(1 0 0 1 384.4731 1063.6984)" class="st1 st2 st3">Líneas transversales </text>
+<text transform="matrix(1 0 0 1 387.6003 1098.8986)" class="st1 st2 st3">blancas y negras en </text>
 <text transform="matrix(1 0 0 1 446.6551 1134.0983)" class="st1 st2 st3">su vientre</text>
 </svg>
